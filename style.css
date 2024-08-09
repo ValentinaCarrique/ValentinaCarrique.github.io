@@ -102,7 +102,7 @@ body{
 
 .talleres-contenido{
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url(imagees/escritura-infantil.jpg);
+    url(escritura-infantil.jpg);
     background-position: bottom;
     background-size: cover;
     padding: 100px;
