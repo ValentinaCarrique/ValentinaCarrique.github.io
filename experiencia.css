@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(181, 238, 218);
+}
+
+.foto {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 150px; /* Ancho de la imagen */
+    height: 150px; /* Alto de la imagen */
+    border-radius: 50%; /* Hace que la imagen sea redonda */
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin deformarla */
+    float: left;
+}
+
+.contenedor {
+	display: flex;
+	align-items: center; /* Alinea verticalmente en el centro */
+ }
+
+
+.nombre {
+	margin-left: 50px;
+	margin-top: 60px;
+    background-color: #45a68b;
+	color:black;
+	padding: 50px;
+	padding-right: 600px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.contenido {
+    padding-left: 252px;
+    padding-right: 20px;
+}
